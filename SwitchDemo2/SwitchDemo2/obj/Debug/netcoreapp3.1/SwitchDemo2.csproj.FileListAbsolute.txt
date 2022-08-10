@@ -1,0 +1,14 @@
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.exe
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.deps.json
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.runtimeconfig.json
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.runtimeconfig.dev.json
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.dll
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\bin\Debug\netcoreapp3.1\SwitchDemo2.pdb
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.csproj.AssemblyReference.cache
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.AssemblyInfoInputs.cache
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.AssemblyInfo.cs
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.dll
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.pdb
+C:\Users\Pratik\Desktop\project\SwitchDemo2\SwitchDemo2\obj\Debug\netcoreapp3.1\SwitchDemo2.genruntimeconfig.cache
