@@ -1,0 +1,16 @@
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.exe
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.deps.json
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.runtimeconfig.json
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.runtimeconfig.dev.json
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.dll
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\ref\Pattern.dll
+C:\Users\Pratik\source\repos\Pattern\Pattern\bin\Debug\net5.0\Pattern.pdb
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.csproj.AssemblyReference.cache
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.AssemblyInfo.cs
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.dll
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\ref\Pattern.dll
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.pdb
+C:\Users\Pratik\source\repos\Pattern\Pattern\obj\Debug\net5.0\Pattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+<<<<<<< HEAD
+	  <StartupObject>Pattern.Series.Prime</StartupObject>
+=======
+	  <StartupObject>Pattern.OOps.Thisuse3</StartupObject>
+>>>>>>> 0b5e1c57d7d859a0e38fc826885c0f53ff390293
+  </PropertyGroup>
+
+</Project>
