@@ -15,7 +15,7 @@ namespace Class.Inheritance
         public void show()
         {
             legs = 2;
-            Console.WriteLine("Frog Legs="+legs+""+"Animal legs"+base.legs);
+            Console.WriteLine("Frog Legs="+legs+""+"Animal legs"+base.legs);          //Bsae to acces variable into child
         }
 
     }

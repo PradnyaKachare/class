@@ -11,13 +11,17 @@ namespace Class.ArrayDemo
         public int EvenSum(int []a)
         {
             int sum = 0;
-            for (int i = 0; i < a.Length; i++)
+            int i;
+            for ( i = 0; i < a.Length; i++)
             {
                 if(a[i]%2==0)
                 {
+                   
                     sum = sum + a[i];
                 }
+                Console.WriteLine("  " + a[i]);
             }
+           
             return sum;
         }
         static void Main(string[] args)
@@ -26,10 +30,12 @@ namespace Class.ArrayDemo
             Console.WriteLine("Enter the array Elements");
             for (int i = 0; i < arr.Length; i++)
             {
+                
                 arr[i] = int.Parse(Console.ReadLine());
             }
             SumOfEven e = new SumOfEven();
             int sum = e.EvenSum(arr);
+            Console.WriteLine("....................");
             Console.WriteLine("sum of even number="+sum);
         }
     }

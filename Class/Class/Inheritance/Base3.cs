@@ -16,7 +16,7 @@ namespace Class.Inheritance
 
     class Dell:Laptop
     {
-        public Dell(int x,int y):base(y)
+        public Dell(int x,int y):base(y)  //:base(64)      //non pramerter also write call base to constructor
         {
             Console.WriteLine("Dell..."+x);
         }

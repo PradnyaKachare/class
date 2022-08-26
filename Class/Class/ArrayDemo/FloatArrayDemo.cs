@@ -34,17 +34,7 @@ namespace Class.ArrayDemo
             }
             Console.WriteLine();
 
-            // float[] a = new float[5];
-            /* float[] arr = new float[5];
-             Console.WriteLine("Enter array Elements");
-             for (float i = 0; i < arr.Length; i++)
-             {
-                 float arr[5] = float.Parse(Console.ReadLine());
-             }
-             for (float i = 0; i < arr.Length; i++)
-             {
-                 Console.WriteLine(arr[i]);
-             }*/
+            
 
         }
     }

@@ -14,7 +14,7 @@ namespace Class.ArrayDemo
             Console.WriteLine(string.Join("",a));
             for (int i = a.Length-1; i<=0; i--)
             {
-                Console.WriteLine( a[i] +"");
+                Console.WriteLine( a[i] +" ");
             }
         }
     }

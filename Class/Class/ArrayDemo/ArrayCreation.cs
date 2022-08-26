@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class.ArrayDemo
 {
-    class ArrayCreation  //on screen keyboard
+    class ArrayCreation  
     {
         static void Main(string[] args)
         {

@@ -18,7 +18,7 @@ namespace Class.Inheritance
     {
         /*public void Fly()
         {
-            Console.WriteLine("Sparrow is Flying");
+            Console.WriteLine("Sparrow is Flying");                                     //access to method
             base.Fly();
         }
 */

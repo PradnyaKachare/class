@@ -10,7 +10,7 @@ namespace Class.ArrayDemo
     {
         public void RevArray(char[] ch)
         {
-            for (int i = ch.Length - 1;i>=0; i++)
+            for (int i = ch.Length - 1;i>=0; i--)
             {
                 Console.WriteLine(ch[i]+"");  
             }
@@ -21,22 +21,20 @@ namespace Class.ArrayDemo
             int s = int.Parse(Console.ReadLine());
 
             char[] ch = new char[s];
-         
-            Console.WriteLine("Enter the char Elements");
 
+            Console.WriteLine("Enter the char Elements");
             for (int i = 0; i <= ch.Length - 1; i++)
             {
-                ch[i] = Convert.ToChar(Console.ReadLine());
+               
+                char c = char.Parse(Console.ReadLine());
+                ch[i] = c;
             }
+
+            ReverseCharArray r = new ReverseCharArray();
+            Console.WriteLine(string.Join(" ",ch));
 
             Console.WriteLine("............. ");
-            foreach (char c in ch)
-            {
-                Console.Write(c);
-            }
-            
-            
-
+            r.RevArray(ch);
         }
     }
 }

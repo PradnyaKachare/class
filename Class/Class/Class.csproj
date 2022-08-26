@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-	  <StartupObject>Class.ArrayDemo.ReverseCharArray</StartupObject>
+	  <StartupObject>Class.ArrayDemo.EvenNumberPosition</StartupObject>
   </PropertyGroup>
 
 </Project>
